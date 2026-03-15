@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-Results-driven <b>Software Engineering graduate</b> with <b>4.5 years</b> of experience in <b>Software Quality Assurance</b> across Blockchain, Web3, AI solutions, CRM systems, and microservices. Skilled in <b>manual and automation testing</b> using <b>Playwright, Cypress, and Selenium</b>, with strong expertise in blockchain transactions, wallets, tokens, and NFTs. Proven ability to <b>refine QA processes, resolve workflow challenges, and lead Agile-driven initiatives</b> to ensure high-quality, business-aligned deliverables. </p>
+Results-driven <b>Software Engineering graduate</b> with <b>05 years</b> of experience in <b>Software Quality Assurance</b> across Blockchain, Web3, AI solutions, CRM systems, and microservices. Skilled in <b>manual and automation testing</b> using <b>Playwright, Cypress, and Selenium</b>, with strong expertise in blockchain transactions, wallets, tokens, and NFTs. Proven ability to <b>refine QA processes, resolve workflow challenges, and lead Agile-driven initiatives</b> to ensure high-quality, business-aligned deliverables. </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
@@ -81,7 +81,7 @@ Results-driven <b>Software Engineering graduate</b> with <b>4.5 years</b> of exp
 | |
 |-|
 | [Occam Global](https://www.occam.global) – Global project management solutions |
-| [Chia](https://www.chia.net) – Blockchain asset tokenization |
+| [Chia Network](https://www.chia.net) – Blockchain asset tokenization |
 | [PSX Digital](https://psxdigital.com/) – AI-powered CRM solutions |
 | [Aiden Solutions](https://www.aiden.solutions/) – AI-driven chatbots |
 | [Hedayah](https://hedayah.com/) – Extremism prevention platform |
